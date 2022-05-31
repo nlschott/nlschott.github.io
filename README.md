@@ -1,8 +1,8 @@
 ## Hands-On Workshop Modules:
-    * Enforcing organizational compliance and API governance standards
-    * How does Postman help you improve Developer Productivity?
-    * How does Postman help you shift-left?
-    * What does it mean to have high API Quality and how do you get there?
+ * Enforcing organizational compliance and API governance standards
+ * How does Postman help you improve Developer Productivity?
+ * How does Postman help you shift-left?
+ * What does it mean to have high API Quality and how do you get there?
 
 ## Hands-On Workshop Module Agendas** (developers can follow along hands-on with full API lifecycle etc)
     * **Enforcing organizational compliance and API governance standards**
