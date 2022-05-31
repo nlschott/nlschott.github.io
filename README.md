@@ -1,10 +1,10 @@
-* **Hands-On Workshop Modules:**
+## Hands-On Workshop Modules:
     * Enforcing organizational compliance and API governance standards
     * How does Postman help you improve Developer Productivity?
     * How does Postman help you shift-left?
     * What does it mean to have high API Quality and how do you get there?
 
-* **Hands-On Workshop Module Agendas** (developers can follow along hands-on with full API lifecycle etc)
+## Hands-On Workshop Module Agendas** (developers can follow along hands-on with full API lifecycle etc)
     * **Enforcing organizational compliance and API governance standards**
         * **Audience/user target:** Engineering managers/leads
         * Role-based access controls (RBAC) for Collections & APIs
