@@ -10,7 +10,7 @@
      * Role-based access controls (RBAC) for Collections & APIs
      * OpenAPI design & security validation
      * Version control repo Integration Workflow
- * **How does Postman help you improve developer productivity?**
+ * **[How does Postman help you improve developer productivity?](workshop_developer_productivity.md)**
      * **Audience/user target:** developers, enterprise architects, tech leads
      * This lab will show you some of the new features in Postman, including how to work with multiple collections associated with an API.
      * **Topics covered**: collections, API versions, API specs, documentation, mock servers, variables, and environments.
