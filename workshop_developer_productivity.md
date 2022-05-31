@@ -33,7 +33,7 @@ Module 2: Developer Productivity
     2. **Tip: Workspaces make it easy to share your work and collaborate with teammates without needing to import / export collections.**
 
         
-![alt_text](images/image2.png "image_tooltip")
+![alt_text](img/2022-05-31_15-42-24.png "image_tooltip")
 
 
 
