@@ -1,10 +1,7 @@
 ### 
-![alt_text](img/2022-05-31_15-46-58.png "image_tooltip" | width=100)
+![alt_text](img/2022-05-31_15-46-58.png "image_tooltip")
 
-<img src="img/2022-05-31_15-46-58.png" width="100" height="100">
-
-
-
+<img src="img/2022-05-31_15-46-58.png" width="250px">
 
 ## Postman - Hands-On Workshop
 
